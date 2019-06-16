@@ -1,0 +1,7 @@
+F:\MyProgramm\3Array\3Array\bin\Debug\3Array.exe.config
+F:\MyProgramm\3Array\3Array\bin\Debug\3Array.exe
+F:\MyProgramm\3Array\3Array\bin\Debug\3Array.pdb
+F:\MyProgramm\3Array\3Array\obj\Debug\3Array.csprojResolveAssemblyReference.cache
+F:\MyProgramm\3Array\3Array\obj\Debug\3Array.csproj.CoreCompileInputs.cache
+F:\MyProgramm\3Array\3Array\obj\Debug\3Array.exe
+F:\MyProgramm\3Array\3Array\obj\Debug\3Array.pdb
